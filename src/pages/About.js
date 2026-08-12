@@ -11,7 +11,15 @@ const certifications = [
   { src: '/assets/certs/7.jpeg', title: 'YouTube', color: 'from-red-500 to-pink-500' },
   { src: '/assets/certs/8.jpg', title: 'AWS Traning', color: 'from-red-500 to-pink-500' },
   { src: '/assets/certs/9.jpg', title: 'AWS Job Simulation', color: 'from-red-500 to-pink-500' },
-  { src: '/assets/certs/10.jpg', title: 'Deloitte Job Simulation', color: 'from-red-500 to-pink-500' }
+  { src: '/assets/certs/10.jpg', title: 'Deloitte Job Simulation', color: 'from-red-500 to-pink-500' },
+  { src: '/assets/certs/11.jpg', title: 'JP Morgan SWE job Simulation', color: 'from-purple-500 to-pink-500' },
+  { src: '/assets/certs/12.jpg', title: ' power BI ', color: 'from-blue-500 to-cyan-500' },
+  { src: '/assets/certs/13.jpg', title: 'Oracle', color: 'from-green-500 to-teal-500' },
+  { src: '/assets/certs/14.jpg', title: 'Google', color: 'from-orange-500 to-red-500' },
+  { src: '/assets/certs/15.jpg', title: 'Google ', color: 'from-yellow-500 to-orange-500' },
+  { src: '/assets/certs/16.jpg', title: 'Cisco', color: 'from-indigo-500 to-purple-500' }
+
+
 ];
 
 export default function About() {
